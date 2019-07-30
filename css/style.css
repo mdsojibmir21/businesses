@@ -1,0 +1,433 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
+
+
+/* Global CSS */
+
+body {
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+
+}
+
+h2 {
+
+
+}
+h3 {
+
+
+}
+
+p {
+	font-size: 15px;
+
+}
+
+
+/*navigation section start*/
+
+.fa.fa-mobile {
+    padding-right: 10px;
+    font-size: 20px;
+}
+.fa.fa-envelope {
+    padding-right: 10px;
+    color: #424242;
+}
+.fa.fa-facebook-square{
+	background-color: white;
+	color: skyblue;
+}
+.menu {
+	background-color: #fff;
+	padding: 25px 0px;
+}
+.nav-link {
+	color: #161616;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 14px;
+    padding: 4px 11px!important;
+
+}
+/*navigation section end*/
+/*home section start*/
+
+.hero {
+	background:url(../img/cover.png);
+	background-size: cover;
+}
+
+.banner {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	text-align: center;
+}
+.banner h2{
+	color: #fff;
+}
+
+.banner p {
+	color: #fff;
+}
+
+.btn {
+    background: #f8cd53;
+    color: white;
+    margin-bottom: 245px;
+}
+/*home section start*/
+/*about section start*/
+.first{
+	text-align: center;
+}
+
+.col-md-12 h3 {
+    margin-top: 60px;
+}
+
+span.underline {
+    border-bottom: 4px solid;
+    margin: 0 auto;
+    display: block;
+    width: 40px;
+    color: #424242;
+}
+.first-one {
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 90px;
+}
+
+.first-one p {
+    font-size: 14px;
+}
+
+.first-one h4 {
+    padding: 15px;
+    font-size: 20px;
+}
+
+/*about section end*/
+/*approch section start*/
+.second {
+    background: #f3f3f3;
+    padding-right: 0px;
+}
+
+.text {
+    text-align: center;
+}
+.text h2 {
+    padding-top: 50px;
+    font-size: 26px;
+    color: #424242;
+}
+
+.text p {
+	font-size: 12px;
+	color: #424242;
+}
+
+span.underline-one {
+    border-bottom: 4px solid;
+    margin: 0 auto;
+    display: block;
+    width: 40px;
+    color: #424242;
+    margin-bottom: 30px;
+}
+
+}
+/*part1*/
+.part-three {
+	background-color: #fff;
+}
+.first-step-img {
+    position: relative;
+    right: -2px;
+}
+.step1{
+    position: absolute;
+    background: red;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    top: 90px;
+    right: -18px;
+}
+
+.step1 h4 {
+    position: absolute;
+    top: 5px;
+    left: 26px;
+    font-size: 43px;
+}
+.step1 p {
+    font-weight: bold;
+    position: absolute;
+    top: 45px;
+    left: 24px;
+}
+
+.first-step-text {
+    padding-left: 84px;
+}
+.first-step-text h2 {
+    margin-top: 57px;
+    font-size: 27px;
+}
+.first-step-text p{
+	
+}
+/*part2*/
+.part-two {
+	background-color: #fff;
+	margin-top: 25px;
+}
+.second-step-text {
+    text-align: right;
+}
+
+.second-step-text h2 {
+    margin-right: 50px;
+    font-size: 27px;
+    margin-top: 61px;
+}
+
+.second-step-text p {
+    margin-right: 50px;
+}
+
+
+.second-step-img {
+    position: relative;
+    }
+.step2 {
+    position: absolute;
+    top: 87px;
+    background: red;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #fff;
+    right: 325px;
+    border-radius: 5px;
+}
+.step2 h4 {
+    position: absolute;
+    top: 5px;
+    left: 31px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.step2 p {
+    position: absolute;
+    top: 46px;
+    left: 24px;
+    font-weight: bold;
+}
+/*part3*/
+.part-three {
+    margin-top: 20px;
+    background: #fff;
+    padding-right: 0px;
+}
+.third-step-img {
+    position: relative;
+    right: -2px;
+}
+
+.step3 {
+    position: absolute;
+    background: red;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    top: 90px;
+    right: -50px;
+}
+
+.step3 h4 {
+    position: absolute;
+    top: 5px;
+    left: 26px;
+    font-size: 43px;
+}
+.step3 p {
+    font-weight: bold;
+    position: absolute;
+    top: 45px;
+    left: 24px;
+}
+
+.third-step-text {
+    padding-left: 84px;
+}
+.third-step-text h2 {
+    margin-top: 57px;
+    font-size: 27px;
+}
+.third-step-text p{
+	
+}
+/*part4*/
+
+.part-four {
+	background-color: #fff;
+	margin-top: 25px;
+}
+.forth-step-text {
+    text-align: right;
+}
+
+.forth-step-text h2 {
+    margin-right: 50px;
+    font-size: 27px;
+    margin-top: 61px;
+}
+
+.forth-step-text p {
+    margin-right: 50px;
+}
+
+
+.forth-step-img {
+    position: relative;
+    }
+.step4 {
+    position: absolute;
+    top: 87px;
+    background: red;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #fff;
+    right: 325px;
+}
+  .step4 h4 {
+    position: absolute;
+    top: 5px;
+    left: 31px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.step4 p {
+    position: absolute;
+    top: 46px;
+    left: 24px;
+    font-weight: bold;
+}
+
+
+.s
+/*mailing section start*/
+
+.mail {
+    background: #1287bf;
+}
+.mail-title {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    padding: 25px;
+    color: #fff;
+    font-size: 19px;
+}
+.send {
+    background: #fff;
+}
+form {
+    padding: 31px 0;
+}
+input.name {
+    width: 100%;
+    height: 53px;
+    border: 1px solid skyblue;
+}
+input[type="contact no."] {
+    width: 100%;
+    height: 53px;
+    border: 1px solid skyblue;
+    margin: 2px 0;
+}
+input[type="company name"] {
+    width: 100%;
+    height: 53px;
+    border: 1px solid skyblue;
+}
+input.button {
+    margin: 36px 223px;
+    display: block;
+    padding: 10px 20px;
+    font-size: 17px;
+    color: #fff;
+    background: red;
+    border: 1px;
+    border-radius: 9px;
+}
+/*8*/
+
+.contact {
+    padding: 25px 0;
+    background: #382b2b;
+}
+.cont {
+    text-align: center;
+    padding: 20px 0;
+    margin: 0 auto;
+    display: block;
+    color: #fff;
+}
+.t li {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    margin: 29px;
+    font-size: 45px;
+    border: 1px solid red;
+    padding: 2px 14px;
+    background: grey;
+}
+input.btns {
+    width: 95%;
+    height: 50px;
+    background: #f1dddd;
+    margin: 18px;
+}
+button.s {
+    margin: 12px;
+    padding: 10px 20px;
+    background: transparent;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 7px;
+}
